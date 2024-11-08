@@ -1,0 +1,13 @@
+{
+  "shell_port": 56435,
+  "iopub_port": 56436,
+  "stdin_port": 56437,
+  "control_port": 56439,
+  "hb_port": 56438,
+  "ip": "127.0.0.1",
+  "key": "19567e5c-9698f24768e36e5045f7196c",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "ds",
+  "jupyter_session": "C:\\Users\\AKSHARA\\proj\\share\\jupyter\\nbconvert\\templates\\python\\myenv\\Scripts\\hate speech\\proj\\Project.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 16500,
+  "port": 8888,
+  "root_dir": "C:\\Users\\AKSHARA\\proj\\Scripts",
+  "secure": false,
+  "sock": "",
+  "token": "846118fd2dccbe80451d87d1cea361403a23c1a39cf123ea",
+  "url": "http://localhost:8888/",
+  "version": "2.14.1"
+}

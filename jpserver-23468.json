@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 23468,
+  "port": 8888,
+  "root_dir": "C:\\Users\\AKSHARA\\proj\\share\\jupyter\\nbconvert\\templates\\python\\myenv\\Scripts\\hate speech\\proj",
+  "secure": false,
+  "sock": "",
+  "token": "2f20a7f2d11379dc5b439571136f8e43fc3ac77c4754f6b4",
+  "url": "http://localhost:8888/",
+  "version": "2.14.2"
+}

@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 6232,
+  "port": 8888,
+  "root_dir": "C:\\Users\\AKSHARA\\proj\\share\\jupyter\\nbconvert\\templates\\python",
+  "secure": false,
+  "sock": "",
+  "token": "df07ec332707576da2be86bdfd80baf331563f5bb7c1dde6",
+  "url": "http://localhost:8888/",
+  "version": "2.14.2"
+}
